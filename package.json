@@ -1,0 +1,17 @@
+{
+  "name": "spin-the-wheel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "dotenv": "^16.0.3",
+    "gifencoder": "^2.0.1",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
