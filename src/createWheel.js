@@ -10,7 +10,7 @@ const styles = {
         strokeWidth: 2
     },
     options: {
-        font: '14px arial black',
+        font: '14px Arial',
         textBaseline: 'middle',
         portionStrokeColor: '#000',
         portionStrokeWidth: 1
