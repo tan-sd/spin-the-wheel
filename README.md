@@ -1,1 +1,1 @@
-# spin-the-wheel
+# Telegram Spin Bot
